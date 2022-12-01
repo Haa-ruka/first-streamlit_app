@@ -1,5 +1,6 @@
 import streamlit
 import pandas
+streamlit.set_page_config(layout="wide")
 
 streamlit.title("My Mom's New Healthy Diner")
 
